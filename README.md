@@ -1,4 +1,5 @@
-# TousLesJours_page_renewal
+# React 프로젝트
+# movie_box
 - 배포주소 : https://juni0101.github.io/movie_box/
 <br>
 
